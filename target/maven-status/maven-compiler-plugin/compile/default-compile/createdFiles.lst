@@ -1,0 +1,5 @@
+com\jerrywu\spring\data\es\config\Config.class
+com\jerrywu\elasticsearch\Person.class
+com\jerrywu\spring\data\es\model\Article.class
+com\jerrywu\spring\data\es\model\Author.class
+com\jerrywu\spring\data\es\repository\ArticleRepository.class
