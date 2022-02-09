@@ -1,5 +1,7 @@
-﻿# Build the Project with Tests Running
+﻿# Spring Data Elasticsearch
+ 
+Build the Project with Tests Running
 mvn clean install
 
-﻿# Run Tests Directly
+Run Tests Directly
 mvn test
